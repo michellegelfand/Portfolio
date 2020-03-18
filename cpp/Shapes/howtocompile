@@ -1,0 +1,7 @@
+ gd+ shape.cpp square.cpp test.cpp line.cpp rectangle.cpp circle.cpp composit.cpp -I ../include -Wl,-rpath=. ../lib/libpoint.a ../lib/libglut_utils.so
+
+
+
+
+
+run from terminal in src
