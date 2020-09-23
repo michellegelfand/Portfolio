@@ -1,0 +1,20 @@
+These programmes were written by me as part of my job an an instructor in Magshimim, where i taught the year long course
+"Advanced programming in C++" for teens in the 11th grade looking to get into technology roles in their military service.
+I completed these exercises in order to later guide my students through them so that they can create their own similar 
+projects.
+
+
+Chess- a OOP-based 2 player chess engine. It recieves move insructions from the C# frontend user interface 
+(not built by me. My part of the project is the backend engine) and checks wheather the move is legal
+(is it my turn? is this my piece? is the move legal? am I jumping over pieces in the way? does this move result in chess?). 
+If the move is legal an appoval msg is sent to the frontend and the change appears on the screen. otherwise- say for example,
+if my king is in chess and my current move doesnt break said chess, an error msg will be sent to frontend that the move
+is illegal. 
+There is also an undo system utilized in case a piece moves to a position that puts my king in check.
+
+This program utilizes principles such as inheritance, polymorphism, abstract class and pure virtual functions
+
+
+Magshimart:
+
+a programme simulating a market, utilizing the stl library data structures such as set, map and unordered map 
