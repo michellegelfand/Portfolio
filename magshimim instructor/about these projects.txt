@@ -14,6 +14,12 @@ There is also an undo system utilized in case a piece moves to a position that p
 
 This program utilizes principles such as inheritance, polymorphism, abstract class and pure virtual functions
 
+Client Server:
+a client that allows several clients to log in and edit a shared text file. "Google Docs" style.
+Utilizes TCP network protocol. each client that logs in is handled in a seperate thread created for them.
+At the same time there is a main thread that handles the messages clients enter into the msg queue to send the server.
+This illustrates multi-threaded programming using mutexes and condition variables- as resources have to be accessed by one at a time.
+As well as network programming and recieving and sending information through sockets.
 
 Magshimart:
 
