@@ -1,0 +1,9 @@
+use the .sln file to access both the snake and pacman projects
+
+Pacman is still in progress and currently has 3 characters-
+Pacman (yellow): controlled by player
+Blinky (red): chases pacman aggresively
+Clyde (purple): is stupid, moves randomly
+
+I plan on adding Inky (Wont attack on his own but gets the courage when Blinky gets close to Pacman
+and Pinky- chases Pacman if Pacman gets close to her
