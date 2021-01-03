@@ -1,0 +1,5 @@
+A practice of implementing a binary search tree data structure as well as working with templates.
+
+BSNode.h - a BST working with strings as data
+TBSNode.h - taking that same tree and making it generic to all types (which overload the overators == < > <<)
+via templates
