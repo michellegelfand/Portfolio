@@ -24,3 +24,9 @@ As well as network programming and recieving and sending information through soc
 Magshimart:
 
 a programme simulating a market, utilizing the stl library data structures such as set, map and unordered map 
+
+
+Fraction:
+A fraction calculator. The purpose of this project was to practice the use of EXCEPTIONS.
+I implemented two exception classes- one used for when an invalid mathematical operator is entered,
+and the other for when the user tries to devide by zero.
