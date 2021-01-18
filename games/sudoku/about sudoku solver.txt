@@ -1,0 +1,3 @@
+logical flow chart pdf file explains solving algorithm (chart is in hebrew)
+
+the example solve is a picture of the sudoku board currently inputed into the solver, which it successfuly solves.
