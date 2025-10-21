@@ -1,0 +1,17 @@
+syntax = "proto3";
+//compile: protoc.exe --python_out=. msg.proto
+
+
+
+message vidMsg {
+
+    frameData frame = 1;
+    repeated int32 parameters = 2;
+    repeated string info = 3;
+    }
+
+message frameData{
+    repeated int32 frameShape = 1; //repeated for array
+    bytes frameBytes = 2;
+}
+
