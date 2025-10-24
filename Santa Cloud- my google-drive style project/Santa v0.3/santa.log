@@ -1,0 +1,5783 @@
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140489287718720
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] socket pair set
+[Thread_id] 140489287718720
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140489287718720
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140489287718720
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140489236813568
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489261991680
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489245206272
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489261991680
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489253598976
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489253598976
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489245206272
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489261991680
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489261991680
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489253598976
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489253598976
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489245206272
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489245206272
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489270384384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] ReadTask
+[Thread_id] 140489261991680
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489261991680
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:42) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140489287718720
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:44) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 140489253598976
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:33:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140489253598976
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:33:44) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140211719743296
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] socket pair set
+[Thread_id] 140211719743296
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140211719743296
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140211719743296
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140211668838144
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211694016256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211694016256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211694016256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211694016256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211677230848
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211685623552
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211694016256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211677230848
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211685623552
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211694016256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211702408960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:15) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140211719743296
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:16) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 140211677230848
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:34:16) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140211677230848
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:34:16) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139695360313152
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] socket pair set
+[Thread_id] 139695360313152
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139695360313152
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139695360313152
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139695309408000
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695334586112
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695334586112
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695342978816
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695334586112
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695342978816
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695334586112
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695326193408
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695326193408
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695342978816
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695326193408
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695342978816
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695326193408
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695334586112
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695326193408
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 139695342978816
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695326193408
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695334586112
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695342978816
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:23) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139695360313152
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:26) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:39:26) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139695317800704
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:39:26) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140521282176832
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] socket pair set
+[Thread_id] 140521282176832
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140521282176832
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140521282176832
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140521231271680
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] ReadTask
+[Thread_id] 140521264842496
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140521264842496
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] ReadTask
+[Thread_id] 140521256449792
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140521256449792
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] ReadTask
+[Thread_id] 140521239664384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140521239664384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] ReadTask
+[Thread_id] 140521264842496
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140521264842496
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] ReadTask
+[Thread_id] 140521248057088
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140521248057088
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] ReadTask
+[Thread_id] 140521256449792
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140521256449792
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140521282176832
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 140521239664384
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140521239664384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:42:58) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140509245454144
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] socket pair set
+[Thread_id] 140509245454144
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140509245454144
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140509245454144
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140509194548992
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509211334400
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509211334400
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509211334400
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509211334400
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509202941696
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509202941696
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509202941696
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509202941696
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509228119808
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] ReadTask
+[Thread_id] 140509211334400
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509211334400
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140509245454144
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140509219727104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:43:32) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140705800288064
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] socket pair set
+[Thread_id] 140705800288064
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140705800288064
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140705800288064
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140705749382912
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705774561024
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705757775616
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705774561024
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705757775616
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705774561024
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705774561024
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] ReadTask
+[Thread_id] 140705774561024
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705782953728
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705774561024
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:03) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140705800288064
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:05) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 140705757775616
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  16:52:05) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140705757775616
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  16:52:05) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140407231813440
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] socket pair set
+[Thread_id] 140407231813440
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140407231813440
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140407231813440
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140407180908288
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407206086400
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407214479104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407206086400
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407214479104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407206086400
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407214479104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407214479104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407206086400
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407189300992
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407214479104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407189300992
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140407206086400
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407214479104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407197693696
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407206086400
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:06) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140407231813440
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:08) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 140407189300992
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:08) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140407189300992
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:08) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139945281201984
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] socket pair set
+[Thread_id] 139945281201984
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139945281201984
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139945281201984
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139945230296832
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945255474944
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945255474944
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945238689536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945238689536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945247082240
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945238689536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945247082240
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945255474944
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945238689536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945255474944
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945247082240
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945238689536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945247082240
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] ReadTask
+[Thread_id] 139945255474944
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945238689536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945263867648
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945255474944
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:47) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139945281201984
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:48) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 139945247082240
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:10:48) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139945247082240
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:10:48) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139674085975872
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] socket pair set
+[Thread_id] 139674085975872
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139674085975872
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139674085975872
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139674035070720
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674043463424
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674051856128
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674060248832
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674060248832
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674043463424
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674051856128
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674068641536
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] ReadTask
+[Thread_id] 139674060248832
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674060248832
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:09) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139674085975872
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:10) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 139674051856128
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139674051856128
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:20:10) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139789822875456
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] socket pair set
+[Thread_id] 139789822875456
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139789822875456
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139789822875456
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139789771970304
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789797148416
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789780363008
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789797148416
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789788755712
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789780363008
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789788755712
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789797148416
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789797148416
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789780363008
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789797148416
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789780363008
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789797148416
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789788755712
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789788755712
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] ReadTask
+[Thread_id] 139789780363008
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789780363008
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:15) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139789822875456
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:16) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:16) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139789805541120
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:16) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139775424132928
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] socket pair set
+[Thread_id] 139775424132928
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139775424132928
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139775424132928
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139775373227776
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775390013184
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775381620480
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775390013184
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775381620480
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775390013184
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775390013184
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775381620480
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775381620480
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775381620480
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] ReadTask
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775381620480
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775406798592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:21) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139775424132928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:22) 
+
+
+[Msg] DisconnectTask
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 105
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:22:22) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139775398405888
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:22:22) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] socket pair set
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 78
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140270614955776
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270640133888
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270640133888
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270640133888
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270640133888
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270623348480
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] ReadTask
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] 
+[Msg] 	 Sending Reply
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/(2/2019  01:12:  /18) 
+2
+[Msg] ReadTask
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] 
+[Msg] 	 Sending Reply
+[Thread_id] 140270631741184
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/(2/2019  01:12:  /18) 
+2019   17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270648526592
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140270623348480
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:18) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:19) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:24) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:26) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:26) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:26) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:26) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:26) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:28) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140270665860928
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:25:28) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] socket pair set
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140397726029568
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397734422272
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397742814976
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397734422272
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397742814976
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397751207680
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397751207680
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397734422272
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] ReadTask
+[Thread_id] 140397751207680
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397759600384
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397734422272
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140397751207680
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:20) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:28:50) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:39) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:39) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:39) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140397776934720
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:40) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] socket pair set
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140338640443136
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338648835840
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338648835840
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338648835840
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338648835840
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338657228544
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338657228544
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338657228544
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338657228544
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] ReadTask
+[Thread_id] 140338648835840
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338674013952
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140338648835840
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:56) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:29:58) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:19) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:19) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:19) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:19) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:20) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140338691348288
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:20) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139873170147136
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] socket pair set
+[Thread_id] 139873170147136
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139873170147136
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139873170147136
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139873119241984
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873127634688
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873127634688
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873144420096
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873152812800
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873144420096
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873152812800
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873127634688
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873152812800
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873127634688
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873152812800
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873144420096
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873144420096
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873127634688
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873127634688
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873152812800
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873152812800
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] ReadTask
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139873136027392
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:44) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139873170147136
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:45) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139873170147136
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:46) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139880534996800
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] socket pair set
+[Thread_id] 139880534996800
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139880534996800
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139880534996800
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139880484091648
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880509269760
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880517662464
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880509269760
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880517662464
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880500877056
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880500877056
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880509269760
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880517662464
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880500877056
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880500877056
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880517662464
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880509269760
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880500877056
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880500877056
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880492484352
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] ReadTask
+[Thread_id] 139880517662464
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139880517662464
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:55) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139880534996800
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:30:56) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140144188413760
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] socket pair set
+[Thread_id] 140144188413760
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140144188413760
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140144188413760
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140144137508608
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144171079424
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144171079424
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144145901312
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144145901312
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144154294016
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144171079424
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144154294016
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144154294016
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144145901312
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144171079424
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144154294016
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144145901312
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144145901312
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144145901312
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] ReadTask
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140144162686720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:06) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140144188413760
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:31:08) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139907701913408
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] socket pair set
+[Thread_id] 139907701913408
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139907701913408
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 139907701913408
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 139907651008256
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907684579072
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907684579072
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907684579072
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907676186368
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907684579072
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907676186368
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907659400960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907676186368
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907684579072
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907659400960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907676186368
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907684579072
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907659400960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907659400960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907676186368
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] ReadTask
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907676186368
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 139907667793664
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:32:59) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 139907701913408
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:00) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140164496742208
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] socket pair set
+[Thread_id] 140164496742208
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140164496742208
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140164496742208
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140164445837056
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164471015168
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164479407872
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164454229760
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164471015168
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164462622464
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164479407872
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164454229760
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164462622464
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164479407872
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164471015168
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164479407872
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164454229760
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164479407872
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164454229760
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164471015168
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164479407872
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] ReadTask
+[Thread_id] 140164462622464
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140164462622464
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:23) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140164496742208
+[Error Type] ~ 
+[Line] 286
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:33:26) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] socket pair set
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140601625798400
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601650976512
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601642583808
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601650976512
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601642583808
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601659369216
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601634191104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601659369216
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601634191104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601650976512
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601642583808
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601650976512
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601659369216
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601642583808
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601634191104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601659369216
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601634191104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601650976512
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601642583808
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601650976512
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601642583808
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601659369216
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601659369216
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140601634191104
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140601634191104
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:40) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 289
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:34:41) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 289
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:35:52) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 289
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:35:52) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140601676703552
+[Error Type] ~ 
+[Line] 289
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:35:52) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140512240080704
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] socket pair set
+[Thread_id] 140512240080704
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140512240080704
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140512240080704
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140512189175552
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512197568256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512197568256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512205960960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512205960960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512214353664
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512214353664
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512205960960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512214353664
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512205960960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512214353664
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512197568256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512197568256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512205960960
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] ReadTask
+[Thread_id] 140512214353664
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512222746368
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512205960960
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140512214353664
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:24) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140512240080704
+[Error Type] ~ 
+[Line] 288
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (01/12/2019  17:39:26) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140465239881536
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] socket pair set
+[Thread_id] 140465239881536
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140465239881536
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140465239881536
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140465188976384
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] ReadTask
+[Thread_id] 140465197369088
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] ReadTask
+[Thread_id] 140465214154496
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] ReadTask
+[Thread_id] 140465222547200
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] ReadTask
+[Thread_id] 140465205761792
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140465197369088
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140465214154496
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140465222547200
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140465205761792
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] ReadTask
+[Thread_id] 140465197369088
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140465197369088
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] ReadTask
+[Thread_id] 140465214154496
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140465214154496
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:27) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140465239881536
+[Error Type] ~ 
+[Line] 288
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  10:14:28) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 139845622466368
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (02/12/2019  18:25:48) 
+
+
+[Msg] socket pair set
+[Thread_id] 139845622466368
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:25:48) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 139845622466368
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:25:48) 
+
+
+[Msg] 	 nbd dtor threw exception
+[Thread_id] 139845622466368
+[Error Type] ~ 
+[Line] 113
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:25:48) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140293357586240
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (02/12/2019  18:26:10) 
+
+
+[Msg] socket pair set
+[Thread_id] 140293357586240
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:26:10) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140293357586240
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:26:10) 
+
+
+[Msg] 	 nbd dtor threw exception
+[Thread_id] 140293357586240
+[Error Type] ~ 
+[Line] 113
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:26:10) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140356735113024
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] socket pair set
+[Thread_id] 140356735113024
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140356735113024
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140356735113024
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140356692600576
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356575168256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356717778688
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356709385984
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356709385984
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356575168256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356717778688
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356709385984
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356700993280
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356700993280
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356575168256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356575168256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356717778688
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356717778688
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356709385984
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356575168256
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356709385984
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] ReadTask
+[Thread_id] 140356717778688
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356575168256
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140356717778688
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:40) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140356735113024
+[Error Type] ~ 
+[Line] 288
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:41) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140356735113024
+[Error Type] ~ 
+[Line] 288
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (02/12/2019  18:27:42) 
+
+
+[Msg] 
+nbd dp  failed do_it
+[Thread_id] 140356692600576
+[Error Type] ~ 
+[Line] 64
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  09:00:38) 
+
+
+[Msg] Program launched. Logger inited.
+[Thread_id] 140040041781056
+[Error Type] ~ 
+[Line] 59
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] socket pair set
+[Thread_id] 140040041781056
+[Error Type] ~ 
+[Line] 86
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 file descriptors set
+[Thread_id] 140040041781056
+[Error Type] ~ 
+[Line] 90
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] epoll inited, now running.
+[Thread_id] 140040041781056
+[Error Type] ~ 
+[Line] 81
+[FILE] ../srcs/santa_cloud.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 start DOIT loop, listening for requests
+[Thread_id] 140039990875904
+[Error Type] ~ 
+[Line] 157
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040024446720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040024446720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040024446720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040024446720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040007661312
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040007661312
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140039999268608
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140039999268608
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040007661312
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040007661312
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040024446720
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040024446720
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140039999268608
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140039999268608
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040016054016
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] ReadTask
+[Thread_id] 140040007661312
+[Error Type] ~ 
+[Line] 26
+[FILE] ../srcs/request_engine_tasks.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 Sending Reply
+[Thread_id] 140040007661312
+[Error Type] ~ 
+[Line] 265
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:10) 
+
+
+[Msg] 	 gracefully disconnected
+[Thread_id] 140040041781056
+[Error Type] ~ 
+[Line] 288
+[FILE] ../srcs/nbd_driver_proxy.cpp
+[Time] (03/12/2019  11:20:12) 
+
