@@ -1,0 +1,25 @@
+
+CPP=g++ 
+FLAGS=-ansi -pedantic-errors -Wall -Wextra -g -std=c++11
+
+all: libshared.so test.out
+
+test.out: handleton_test_explicit.cpp libglobals.so
+	$(CPP) $(FLAGS) -o $@ -Wl,-rpath=. $^ -ldl -lpthread
+
+libglobals.so: globals.o
+	$(CPP) $(FLAGS) -shared -o $@ $^
+
+globals.o: globals.cpp
+    $(CPP) $(FLAGS) -c -fpic $^
+
+libshared.so: libshared.o libglobals.so
+    $(CPP) $(FLAGS) -o $@ -shared -Wl,-rpath=. $^ 
+
+libshared.o: shared_object.cpp
+    $(CPP) $(FLAGS) -c -fpic $^ -o libshared.o
+
+
+.PHONY: clean
+clean:
+    rm *.o *.so *.out
