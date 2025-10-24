@@ -1,0 +1,187 @@
+#include <iostream>
+#include <string.h>
+#include <sys/epoll.h> //epoll create, epoll_ctl(), struct epoll_event
+#include <unistd.h>//close
+#include <iostream>  // cout
+#include <csignal>   // signal
+#include <sys/epoll.h>
+
+#include "../include/nbd_driver_proxy.hpp"
+#include "../include/driver_data.hpp"
+#include "../include/ram_storage.hpp"
+#include "../include/driver_proxy.hpp"
+
+
+
+using namespace ilrd;
+
+
+const size_t MAX_EVENTS = 2; //for epoll event array
+static const size_t storage_size = 128*1024*1024;
+
+
+int running = 1;
+
+/* request handler func
+{
+    read?write?disc?... handle and send reply
+}
+
+ */
+
+void graceful_disconnect(int sig)//SIGNAL HANDLER
+{
+	(void)sig;
+	std::cout << "\ndisconnecting gracefully..." << std::endl;
+	running = 0;
+}
+
+
+void set_signal_handler()
+{
+	struct sigaction action;
+	action.sa_handler = graceful_disconnect;
+	action.sa_flags = SA_RESTART;
+
+	if (sigemptyset(&action.sa_mask)        != 0  ||
+        sigaddset(&action.sa_mask, SIGINT)  != 0  ||
+        sigaddset(&action.sa_mask, SIGTERM) != 0) 
+    {
+    	throw std::runtime_error("\nfailed to set sighandler");
+    }
+
+    if ((-1 == sigaction(SIGINT, &action, NULL)) || 
+        (-1 == sigaction(SIGTERM, &action, NULL)))
+    {
+        throw std::runtime_error("\nfailed to set sigaction");
+    }
+}
+int main()
+{
+     
+    /* storage create */
+    RAMStorage storage(storage_size);
+
+    /* nbd driver proxy obj  */
+    NBDDriverProxy nbd_driver("/dev/nbd0", storage_size);
+    
+
+    set_signal_handler();
+
+    std::unique_ptr<DriverData> request;
+    std::unique_ptr<DriverData> reply;
+    
+    while((request = nbd_driver.receive_request()) && (running))
+    {
+        if(request->get_type() == DriverData::action_type_t::DISCONNECT)
+        {
+            nbd_driver.send_reply(std::move(request));
+            break;
+        }
+        
+        switch(request->get_type())
+        {
+            case DriverData::action_type_t::READ:
+            reply = storage.read(std::move(request));
+            break;
+        
+            case DriverData::action_type_t::WRITE:
+            reply = storage.write(std::move(request));
+            break;
+            
+            default:
+            reply = std::move(request);
+            break;
+        }
+    
+        nbd_driver.send_reply(std::move(reply));
+    }
+    
+    nbd_driver.disconnect();
+
+    return 0;
+}
+
+        //e-poll
+/* 
+        //create epoll fd
+        int epoll_fd = epoll_create1(0);
+
+        if(-1 == epoll_fd)
+        {
+            throw std::runtime_error("\nfailed in opening epoll fd");
+        }
+        struct epoll_event event, events[MAX_EVENTS];
+
+
+
+        event.events = EPOLLIN;
+        event.data.fd = nbd_driver.ProxyDriver::get_fd();
+
+        TODO: add  STDIN
+         if(epoll_ctl(epoll_fd, EPOLL_CTL_ADD, STDIN_FILENO, &event))
+        {
+             throw std::runtime_error("\nfailed in adding STDIN fd");
+        } 
+        if(epoll_ctl(epoll_fd, EPOLL_CTL_ADD, nbd_driver.ProxyDriver::get_fd(), &event))
+        {
+             throw std::runtime_error("\nfailed in adding STDIN fd");
+        }
+
+        int event_count, i;
+
+        while(running)
+        {
+            if( -1 == (event_count = epoll_wait(epoll_fd, events, MAX_EVENTS, 30000)))
+            {
+                throw std::runtime_error("\nepoll wait error");
+            }
+
+            std::cout << "\nExited epoll" << "\n";
+
+        
+            for(int i = 0; i < event_count; ++i)
+            {
+                if (events[i].data.fd == nbd_driver.ProxyDriver::get_fd()) 
+                {
+                    auto request = nbd_driver.receive_request();
+
+                    switch(request->get_type())
+                    {
+                        case(DriverData::action_type_t::READ):
+                        {
+                            //move: because auto is unique when pointing
+                            nbd_driver.send_reply(storage.read(std::move(request)));
+                            break;
+                        }
+                        case(DriverData::action_type_t::WRITE):
+                        {
+                            nbd_driver.send_reply(storage.write(std::move(request)));
+                            break;
+                        }
+                        case(DriverData::action_type_t::DISCONNECT):
+                        {
+                            running =0;
+                            break;
+                        }
+                        default:
+                        {
+                            //ignore flush & trim
+                        }
+                    }
+                }
+                else
+                {
+                    //for STDIN fd
+                }  
+            }
+        }
+
+        nbd_driver.disconnect();
+    }
+    catch(const std::exception& exc)
+    {
+        std::cout << exc.what();
+    } */
+    
+
