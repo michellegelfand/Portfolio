@@ -2,7 +2,7 @@
 data in the local network of an organisation, a storage "cloud".
 
 ------------------------------------------------------------------
-Featured here are 3 versions of the project in different cycles of its' developement. In every version folder there is a "version notes" file, describing the updates from the previous version.
+Featured here are 2 versions of the project in different cycles of its' developement. In every version folder there is a "version notes" file, describing the updates from the previous version.
 
 In the "includes" folder are the header files, these feature descriptions of the role and implementation of each module.
 
